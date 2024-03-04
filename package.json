@@ -15,7 +15,7 @@
     "@radix-ui/react-slot": "^1.0.2",
     "@tanstack/react-query": "^5.17.19",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "@types/node": "^20.11.9",
+    "@types/node": "^20.11.24",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
